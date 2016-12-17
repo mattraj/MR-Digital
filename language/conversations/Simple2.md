@@ -28,7 +28,7 @@ Yes, I want to have better analytics
 * turing/request_human
 
 < I can definitely help you with that!
-* apology/untrained
+* thanks
 
 < I'll email my boss so he can get in touch with you
 * turing/request_human

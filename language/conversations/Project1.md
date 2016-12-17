@@ -10,10 +10,10 @@ Hi!
 * request_confirmation
 
 Matt
-* decline/deny
+* turing/human
 
 < Nice to meet you, Matt.
-* apology/untrained
+* greeting/emphatic
 
 < I help businesses automate their processes. Is there a project you had in mind?
 * turing/human
@@ -46,4 +46,4 @@ I spend a ton of time doing payroll
 * request_confirmation
 
 matthewrajcok@gmail.com
-* goodbye
+* data/email
